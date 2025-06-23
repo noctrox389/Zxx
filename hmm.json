@@ -5,7 +5,7 @@
       "type": "git",
       "dir": null,
       "ref": "main",
-      "url": "https://github.com/MobilePorting/lime"
+      "url": "https://github.com/noctrox389/lime"
     },
     {
       "name": "openfl",
@@ -17,7 +17,7 @@
       "type": "git",
       "dir": null,
       "ref": "5.5.0",
-      "url": "https://github.com/MobilePorting/flixel"
+      "url": "https://github.com/noctrox389/flixel"
     },
     {
       "name": "flixel-addons",
@@ -39,7 +39,7 @@
       "type": "git",
       "dir": null,
       "ref": "main",
-      "url": "https://github.com/MobilePorting/hxcpp"
+      "url": "https://github.com/noctrox389/hxcpp"
     },
     {
       "name": "hxCodec",
