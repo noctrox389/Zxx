@@ -53,7 +53,7 @@
       "type": "git",
       "dir": null,
       "ref": "main",
-      "url": "https://github.com/MobilePorting/SScript-7.7.0"
+      "url": "https://github.com/AlejoGDOfficial/SScript-7.7.0"
     },
     {
       "name": "tjson",
@@ -70,7 +70,7 @@
       "type": "git",
       "dir": null,
       "ref": "master",
-      "url": "https://github.com/MobilePorting/linc_luajit"
+      "url": "https://github.com/noctrox389/linc_luajit"
     },
     {
       "name": "flxanimate",
